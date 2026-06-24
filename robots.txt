@@ -1,0 +1,6 @@
+/* robots.txt */
+User-agent: *
+Allow: /
+
+Sitemap: https://ananservices.com/sitemap.xml
+Sitemap: https://ananservices.com/sitemap-images.xml
