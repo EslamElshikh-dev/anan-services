@@ -1,0 +1,22 @@
+/* manifest.json */
+{
+  "name": "عنان خدمات السباكة والكهرباء",
+  "short_name": "عنان للسباكة",
+  "description": "أفضل سباك وكهربائي في الرياض لخدمات كشف التسربات والصيانة المنزلية.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://imgg.io/images/2026/06/24/6618cbbf8514ae04703df1b08a5449b1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://imgg.io/images/2026/06/24/6618cbbf8514ae04703df1b08a5449b1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
